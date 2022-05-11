@@ -1,0 +1,15 @@
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ToyRobot.exe
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ToyRobot.deps.json
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ToyRobot.runtimeconfig.json
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ToyRobot.dll
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ref\ToyRobot.dll
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\bin\Debug\net6.0\ToyRobot.pdb
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.csproj.AssemblyReference.cache
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.AssemblyInfoInputs.cache
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.AssemblyInfo.cs
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.csproj.CoreCompileInputs.cache
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.dll
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ref\ToyRobot.dll
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.pdb
+D:\Vijaylaxmi\CodingTest\ToyRobot-ZoneDigital\ToyRobot\obj\Debug\net6.0\ToyRobot.genruntimeconfig.cache

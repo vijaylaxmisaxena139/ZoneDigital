@@ -1,0 +1,7 @@
+place 0,0, north
+move
+report
+right
+move
+move
+report
